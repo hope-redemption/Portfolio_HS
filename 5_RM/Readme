@@ -1,0 +1,5 @@
+5 Simulation of catching and throwing objects between two separate robots in motion (group project)
+Robot Manipulation (Instructor: Russ Tedrake), MIT                                Oct 2022 - Dec 2022
+•	Aim to culminate in a simulated demonstration of these robots throwing and catching a simple object back and forth repeatedly in which the catching robot will have to move 
+•	Study the background, implementation, basic principle, and application of throwing and catching problems based on relevant papers
+•	Attempt to replicate at least one successful throw and catch on real-world hardware if time permits.
