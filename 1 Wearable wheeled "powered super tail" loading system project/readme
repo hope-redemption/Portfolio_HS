@@ -1,0 +1,13 @@
+This is the Wearable wheeled "powered super tail" loading system project
+Nov 2020 – Jun 2021
+Supervised by Dr. Chenglong Fu in Human-Augmented Robotics Lab
+Project Description:
+Target: 
+Aimed to build a wheel-legged robotic limb called Powered Super Tail (PST) to assist human’s load carriage in varying terrains and ground conditions.
+Content:
+The PST system mainly consists of a support rod transferring load to the ground and a pair of stepping triple wheel groups adaptable to different terrain conditions including ground barriers, stairs, and rough roads.
+The PST system was driven by a pair of motors, uplifting support for the load and appropriate force assistance could be effectively provided by the support rod, and thus energy expenditure of the human body could be reduced. 
+Independently completed the theoretical analysis, construction of 3D models, and experimental verification of the barrier-stepping capability of the triple wheel group. 
+The stepping triple wheel group could successfully traverse barriers of different heights and ascend stairs in the actual test.
+Assisted in the collection and processing of data on the system’s assistance performance in walking conditions. Experiments demonstrate the following results: during standing, the metabolic power consumption under PST_ON is lowered by 5.42% compared to LOAD and 12.56% compared to PST_OFF; and during walking, the metabolic power consumption is lowered by 20.85% compared to LOAD and 36.58% compared to PST_OFF.
+Wrote the mechanical design of the stepping triple wheel group, theoretical motion analysis and experimental verification in the published paper.
