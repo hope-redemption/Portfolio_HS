@@ -1,0 +1,12 @@
+Multi-modal learning to facilitate car body design: explore machine learning, 3D modeling, and fluid dynamic simulations 
+Sep 2022 – present
+Supervised by Dr. Faez Ahmed in DeCoDE lab, MIT         
+
+Project Description:
+Target: 
+Aimed to build a multi-modal learning model that can learn car design data in multiple modes effectively to predict car performance.
+Content:
+Learned and mastered deep learning algorithms for different data types to expand deep learning knowledge and skills.
+Learned and mastered the evolution of multi-modal learning (origin, development, challenges, future research directions).
+Explored and implemented the relevant deep learning algorithms for unimodal data (e.g., images, text, sketches, tabular data) with Tensorflow.
+Built a multi-modal learning model based on the image data and Tabular data that can learn car design data in multiple modes effectively to predict car performance.
