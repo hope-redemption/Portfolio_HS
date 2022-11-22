@@ -1,0 +1,18 @@
+Artificial Intelligence B (Instructor: Jianguo Zhang), SUSTech
+
+Project 1: Composite Image Generation & Binary Image Classification (group project)    Oct 2021 – Nov 2021
+Project Description:
+Target:
+To develop, evaluate and report image processing software to automatically create various types of composite images, using automatically selected images as specific categories of the scene.
+Content:
+Implemented the two basic parts of synthetic image generation and binary image classification (natural scenery or artificial scenery) using machine learning methods
+Combined the above two parts to automatically determine which picture belongs to after selecting a specific picture category, and generate a composite image. 
+Used python to construct a neural network to achieve the binary classification of pictures, and the accuracy became 85% during the tests.
+
+Project 2: Classification and Clustering (individual project)    Nov 2021 – Dec 2021
+Project Description:
+Content:
+Implemented two methods: PCA and LDA to achieve the dimensionality reduction by using the first two principal components.
+Visualized data from MNIST and compared the clustering results after dimensionality reduction. 
+Used SVM with an RBF kernel, SVM with a linear kernel, and a neural network classifier with one hidden layer to classify the dataset in a 5-fold cross-validation setting.
+Create and plot the ROC curves of the results using the three different classifiers, and compare their performance using the area under the ROC curve (AUC).
