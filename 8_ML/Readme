@@ -1,0 +1,12 @@
+Hand Gesture Recognition based on LSTM Using Leap Motion (individual project)
+Machine Learning for Engineering (Instructor: Kemi Ding), SUSTech     
+Feb 2022 - Jun 2022
+Project Description:
+Target:
+Learned the background, development, basic principle, and application of dynamic hand gestures and RNN, LSTM, CNN neural networks
+Implemented LSTM neural network to construct U-LSTM, BI-LSTM, and HBU-LSTM structures to achieve the classification task of dynamic gesture.
+Content:
+Independently rebuilt the overall code framework and implemented the algorithms with Python based on the paper by Ameur, S., Ben Khalifa, A. and Bouhlel, M.. “A novel hybrid bidirectional unidirectional LSTM network for dynamic hand gesture recognition with Leap Motion,” Entertainment Computing, 35, p.100373, 2020.
+Studied the background, implementation, basic principle and application of dynamic hand gesture and RNN, LSTM, CNN neural networks based on relevant papers.
+Used the Leap Motion Controller to obtain gesture data, used Python to construct LSTM neural network, and U-LSTM, BI-LSTM, HBU-LSTM structures, trained LSTM Model to achieve the classification task of dynamic hand gesture.
+Achieved a final 94.82% average accuracy in the dynamic hand gesture recognition.
