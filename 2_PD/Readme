@@ -1,0 +1,15 @@
+C++ version software program for parameter identification
+Jun 2021 – Aug 2021
+Supervised by Dr. Mingguo Zhao in Automatic Laboratory, Tsinghua University & UBTECH
+
+Project Description:
+Target: 
+Aimed to develop a C++ version based on MATLAB identification software.
+Content:
+Read the relevant theoretical literature on parameter identification and calibration and mastered the content of the algorithm. 
+Studied and mastered the general process of parameter identification: establishment of the dynamic model, equation linearization, design of incentive trajectory, and data collection.
+Analyzed the functions of the original software and learned C language programming from scratch, the configuration and use of various mathematical libraries, and optimized libraries.
+Wrote the C++ version code of the dynamic parameter optimization and cross-validation part of the software program to make it open source, based on the MATLAB version of the software program. 
+Applied a nonlinear optimization library (NLOPT) into the C++ version project to make the optimization algorithm more effective and efficient 
+Visualized the dynamic parameter optimization process data, and drew related images for display. 
+Finished the project with more than 3000 lines of source code and improved my ability to write code.
