@@ -1,0 +1,6 @@
+Motion simulation of hexapod robot (group project)
+Robot Modeling and Control (Instructor: Chenglong Fu), SUSTech 
+Nov 2021 – Dec 2021
+•	Studied papers related to kinematic analysis and model construction of hexapod robots, such as Shahriari, M., & GHAEMI, O. K. (2012). Kinematic and Gait Analysis Implementation of an Experimental Radially Symmetric Six-Legged Walking Robot.
+•	Studied design strategy and implementation from an open-source project on Github (https://github.com/dallyria/Mobile-Robotics)
+•	Implemented the simulation of stick model of four kinds of motion postures independently based on the model structure of the open-source project, including (i) a new straightforward walking gait, (ii) panning to the right, (iii) rotating dancing, (iv) climbing the stairs
