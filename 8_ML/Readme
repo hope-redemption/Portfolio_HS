@@ -10,3 +10,13 @@ Independently rebuilt the overall code framework and implemented the algorithms 
 Studied the background, implementation, basic principle and application of dynamic hand gesture and RNN, LSTM, CNN neural networks based on relevant papers.
 Used the Leap Motion Controller to obtain gesture data, used Python to construct LSTM neural network, and U-LSTM, BI-LSTM, HBU-LSTM structures, trained LSTM Model to achieve the classification task of dynamic hand gesture.
 Achieved a final 94.82% average accuracy in the dynamic hand gesture recognition.
+
+
+Midterm project:
+In this mid-term project, we first used image optimization algorithm, PCA and cross-validation
+to process the data set, and then used Logistic regression, Naive Bayes Classifier, SVM with Different
+Kernels, Random Forest, KNN, K-means ,MLP and other algorithms realize the binary classification
+of the number 35 and 89 in the digital data set and the multi-classification task of the number 4567,
+then we adjust some parameters in the algorithm to obtain higher operation speed and accuracy.
+Finally, the confusion matrix of classification results is drawn to show the results in a visual way,
+which successfully completes the requirements of the mid-term project.
