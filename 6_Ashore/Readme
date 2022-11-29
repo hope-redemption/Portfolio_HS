@@ -1,0 +1,17 @@
+Ashore (group project)
+
+Massachusetts Institute of Technology
+The Product Engineering Processes (Instructor: Josh Wiesman, Ellen Roche)
+Sep 2022 - Dec 2022
+                         
+Project description:
+Target
+•	Our product: Ashore, which is designed to be placed around sea turtle nests to rectify the sex ratio imbalance of sea turtles caused by rising global temperatures. Our system is composed of 3 main parts: insulation around the nest, a water reservoir, and a temperature-controlled water circulation system.
+
+Content:
+•	On the first day, conservationists find new sea turtle nests and will place the eggs inside the housing before reburying it. 
+•	On day 20, the eggs will reach their critical development phase and the user will connect the circulation system to the water reservoir sitting on the sand and turn the device on. The water will then flow from the cooler into the coil due to gravity. When this water eventually warms up, new ice water will be allowed to flow into the coils by a solenoid valve. 
+•	From Day 20 to Day 40, volunteers will replenish the ice water in the cooler every 6 days to allow the system to maintain its internal temperature difference. 
+•	On Day 40, the user will switch off the device, and remove the insulating lid to allow unimpeded hatching. 
+•	After the sea turtles find their way to the sea, the product will be dug out and redeployed to a new sea turtle nest. 
+•	In the off-season, our product can be disassembled and stored for later use.
