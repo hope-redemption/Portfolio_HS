@@ -1,8 +1,8 @@
 5 Simulation of catching and throwing objects between two separate robots in motion (group project)
 Robot Manipulation (Instructor: Russ Tedrake), MIT                                Oct 2022 - Dec 2022
-•	Aimed to build a physics-based throwing using inverse dynamics control to simulate two robots throwing and catching a simple object back and forth repeatedly
-•	Implemented the algorithms for throwing trajectory planning and movement strategy of the iiwa robot arm
-•	Studied the background, implementation, basic principle, and application of throwing and catching problems
+•Aimed to build a physics-based throwing using inverse dynamics control to simulate two robots throwing and catching a simple object back and forth repeatedly
+•Implemented the algorithms for throwing trajectory planning and movement strategy of the iiwa robot arm
+•Studied the background, implementation, basic principle, and application of throwing and catching problems
 
 for more details, please vist this link: https://github.com/qujohn314/rm-throwing-catching-bot
 Throwing demo link: https://www.youtube.com/watch?v=HvuFJTrRoTU
